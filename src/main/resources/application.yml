@@ -1,0 +1,15 @@
+ #��������Ϣ
+ #server:
+    #port: 10086
+#���ݿ����ӵ����� c3p0spring:
+  spring:
+    datasource:
+      username: root
+      password: tiger
+      url: jdbc:mysql://localhost:3306/test
+      driver-class-name: com.mysql.jdbc.Driver
+
+
+
+
+
